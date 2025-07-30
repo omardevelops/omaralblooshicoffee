@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+main {
+    /* Dark background by default */
+    background-color: #1a202c; /* Dark gray */
+    color: #cbd5e0; /* Light gray */
+}
